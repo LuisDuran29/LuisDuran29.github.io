@@ -4,8 +4,8 @@ title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-profile: 
-  align: right
+profile: Guapo, poderoso, asombroso Muy hermoso, soy precioso, armonioso Un buen socio, misterioso, buena gente Detergente, muy majete, inteligente Nada ojete, irreverente, un exponente Muy perfecto es lo que soy
+  align: right.
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
